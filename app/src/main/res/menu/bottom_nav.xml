@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- NIM: 10119126 -->
+<!-- Nama: Dicky Setiadi -->
+<!-- Kelas: IF-3 -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile"
+        android:title="Profil"
+        android:icon="@drawable/profile" />
+    <item android:id="@+id/food"
+        android:title="Makanan"
+        android:icon="@drawable/fastfood"/>
+    <item android:id="@+id/location"
+        android:title="Lokasi Saat Ini"
+        android:icon="@drawable/current_location"/>
+    <item android:id="@+id/app_info"
+        android:title="App Info"
+        android:icon="@drawable/appinfo"/>
+</menu>
